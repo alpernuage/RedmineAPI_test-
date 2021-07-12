@@ -1,0 +1,100 @@
+{
+    "issue": {
+        "id": 1900,
+        "project": {
+            "id": 1,
+            "name": "Manuels et Ressources Numériques"
+        },
+        "tracker": {
+            "id": 1,
+            "name": "Anomalie"
+        },
+        "status": {
+            "id": 2,
+            "name": "En cours"
+        },
+        "priority": {
+            "id": 2,
+            "name": "Normal"
+        },
+        "author": {
+            "id": 373,
+            "name": "David RAGOT (LPO$COSTEBELLE$HYERES à HYERES)"
+        },
+        "assigned_to": {
+            "id": 373,
+            "name": "David RAGOT (LPO$COSTEBELLE$HYERES à HYERES)"
+        },
+        "subject": "Empreintes littéraires, chez Magnard, édition 2019 pas d'accès pour un élève",
+        "description": "Bonjour,\r\n\r\nnous avons un élève en 2nd : COIGNOT Océane 2nde3  \r\nQui n'a pas accès à ce livre (Empreintes littéraires, chez Magnard, édition 2019)alors que les autres élèves de sa classe oui.\r\n\r\nBien cordialement",
+        "start_date": "2020-12-02",
+        "done_ratio": 0,
+        "custom_fields": [
+            {
+                "id": 1,
+                "name": "Catégorie ",
+                "multiple": true,
+                "value": [
+                    "Manuel inaccessible"
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Diffuseur",
+                "value": "EDULIB (LibManuels)"
+            }
+        ],
+        "created_on": "2020-12-02T10:07:23Z",
+        "updated_on": "2020-12-03T08:10:16Z",
+        "journals": [
+            {
+                "id": 5253,
+                "user": {
+                    "id": 351,
+                    "name": "Stéphane Pantin (EMLS)"
+                },
+                "notes": "Bonjour,\r\n\r\nUn problème de connexion aux manuels depuis Corrélyce est actuellement en cours.\r\nSi cette élève essaye d'y accéder depuis Corrélyce alors que ses camarades y accèdent depuis leur application LibManuels, le manuel étant déjà téléchargé, cela est donc lié au problème actuel.\r\nCe souci est en cours d'investigation et nous vous tiendrons informé de sa résolution.\r\n\r\nSi nous ne sommes pas dans ce cas, cette élève a-t-elle un message d'erreur et si oui lequel ?\r\n\r\nBien à vous,\r\nStéphane Pantin",
+                "created_on": "2020-12-02T10:48:56Z",
+                "details": [
+                    {
+                        "property": "cf",
+                        "name": "2",
+                        "old_value": "",
+                        "new_value": "EDULIB (LibManuels)"
+                    },
+                    {
+                        "property": "attr",
+                        "name": "assigned_to_id",
+                        "new_value": "373"
+                    },
+                    {
+                        "property": "attr",
+                        "name": "status_id",
+                        "old_value": "1",
+                        "new_value": "2"
+                    }
+                ]
+            },
+            {
+                "id": 5270,
+                "user": {
+                    "id": 351,
+                    "name": "Stéphane Pantin (EMLS)"
+                },
+                "notes": "Bonjour,\r\n\r\nL'accès aux manuels et ressources numériques est de nouveau opérationnel.\r\nLe problème d'Océane Coignot est-il toujours présent ?\r\n\r\nBel fin de journée,\r\nStéphane Pantin",
+                "created_on": "2020-12-02T15:51:24Z",
+                "details": []
+            },
+            {
+                "id": 5273,
+                "user": {
+                    "id": 373,
+                    "name": "David RAGOT (LPO$COSTEBELLE$HYERES à HYERES)"
+                },
+                "notes": "Bonjour,\r\n\r\nMerci pour votre action, je me renseigne.\r\n\r\nBien cordialement",
+                "created_on": "2020-12-03T08:10:16Z",
+                "details": []
+            }
+        ]
+    }
+}
